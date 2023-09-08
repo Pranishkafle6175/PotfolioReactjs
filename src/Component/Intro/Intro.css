@@ -1,7 +1,6 @@
 .intro{
     margin-top: 70px;
     display: flex;
-    height: 77vh;
 }
 .left-intro{
     display: flex;
@@ -35,9 +34,21 @@
 }
 
 .right-intro{
+    
+    display: flex;
+    justify-content: center;
     position: relative;
     flex: 1;
+
+    height: 70vh;
 }
+.right-intro > *{
+    position: absolute;
+    z-index: 1;
+    height: 70vh;
+}
+
+
 
 .images{
     margin-top: 70px;
@@ -49,3 +60,4 @@
 .images img{
     height: 40px;
 }
+

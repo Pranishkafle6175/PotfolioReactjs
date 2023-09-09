@@ -8,6 +8,7 @@ import instagram from "../../img/instagram.png";
 import selfimage from "../../img/boy.png";
 import Crown from "../../img/crown.png";
 import Thumb from "../../img/thumbup.png";
+import glasses from "../../img/glasses.png"
 
 const Intro = () => {
   return (
@@ -38,9 +39,12 @@ const Intro = () => {
         <img src={selfimage} alt="selfimage" />
         
 
-        <div id="selfimage"
-        style={{top:"70%",left:"5s%"}}>
+        <div  style={{top:"78%",left:"15%"}}>
           <FloatingDiv image={Thumb} text1="Android" text2="Developer" />
+        </div>
+
+        <div className="glass" style={{top:"10%",left:"10%"}}>
+          <img src={glasses} />
         </div>
       </div>
     </div>

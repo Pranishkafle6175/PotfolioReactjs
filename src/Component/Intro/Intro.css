@@ -48,8 +48,6 @@
     height: 70vh;
 }
 
-
-
 .images{
     margin-top: 70px;
     display: flex;
@@ -61,3 +59,7 @@
     height: 40px;
 }
 
+.glass > img{
+    height: 100px;
+    
+}

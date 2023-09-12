@@ -41,7 +41,7 @@ const Service = () => {
           // style={{ top: "14%", left: "60%" }}
           image={heart}
           title="Desilokgn"
-          text=" ,mzndckhunidchsu Illustrator,Adobe xd"
+          text=" React,JAvascript,NodeJs"
         />
 
         </div>
@@ -50,7 +50,7 @@ const Service = () => {
           // style={{ top: "14%", left: "60%" }}
           image={heart}
           title="ygugu"
-          text="Figmdcnxdkjvhius niu Illustrator,Adobe xd"
+          text="Android Dveloper Illustrator,Adobe xd"
         />
         </div>
         

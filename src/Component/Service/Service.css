@@ -27,17 +27,6 @@
     font-size: 1rem;
 }
 
-.right-service{
-
-    position: relative;
-    /* width: 40vw; */
-    
-    
-}
-.right-service > *{
-    position: absolute;
-}
-
 .s-button{
     width: 140px;
 }

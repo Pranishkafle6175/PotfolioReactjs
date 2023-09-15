@@ -1,5 +1,6 @@
 import React from "react";
 import "./Service.css";
+import Resume from './Resume.pdf'
 
 const Service = () => {
   return (
@@ -15,7 +16,10 @@ const Service = () => {
           rem.
         </span>
 
+        <a href={Resume} download>
         <button className="button s-button">Download</button>
+        </a>
+
       </div>
     </div>
   );

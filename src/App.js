@@ -3,6 +3,7 @@ import Navbar from './Component/Navbar/Navbar';
 import Intro from './Component/Intro/Intro';
 import Service from './Component/Service/Service';
 import CardDiv from './Component/CardDiv/CardDiv';
+import Experience from './Component/Experience/Experience';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Intro />
       <Service />
       <CardDiv />
+      <Experience/>
       </div>
   );
 }

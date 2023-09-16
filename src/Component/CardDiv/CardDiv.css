@@ -1,12 +1,15 @@
 .carddiv {
     display: flex;
     justify-content: center;
-    position: absolute;
+    /* position: absolute; */
     width: 98vw;
     /* width: 150px; */
     /* height: ; */
     /* border: 10px solid var(--orange);
     border-radius: 13px; */
+
+    height: 60vh;
+    margin-bottom: 10rem;
     
 }
 .carddiv > *{

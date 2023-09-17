@@ -21,6 +21,7 @@ const Experience = () => {
             <span>companies</span>
             <span>work</span>
         </div>
+        <div></div>
     </div>
   )
 }

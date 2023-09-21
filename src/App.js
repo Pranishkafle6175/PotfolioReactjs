@@ -4,6 +4,8 @@ import Intro from './Component/Intro/Intro';
 import Service from './Component/Service/Service';
 import CardDiv from './Component/CardDiv/CardDiv';
 import Experience from './Component/Experience/Experience';
+import Projects from './Component/Projects/Projects';
+import Testimonials from './Component/Testimonials/Testimonials';
 
 
 function App() {
@@ -14,6 +16,8 @@ function App() {
       <Service />
       <CardDiv />
       <Experience/>
+      <Projects />
+      <Testimonials />
       </div>
   );
 }

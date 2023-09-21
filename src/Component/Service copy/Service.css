@@ -1,0 +1,32 @@
+.service{
+    display: flex;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    padding: 0 3rem 0 3rem;
+    
+}
+.left-service{
+    display: flex;
+    flex-direction: column;
+    position:relative
+    
+}
+.left-service span:nth-child(1){
+    font-size: 2.5rem;
+    font-weight:bold;
+
+}
+
+.left-service span:nth-child(2){
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--orange);
+}
+
+.left-service span:nth-child(3){
+    font-size: 1rem;
+}
+
+.s-button{
+    width: 140px;
+}

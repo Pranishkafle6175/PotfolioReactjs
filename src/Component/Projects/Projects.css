@@ -1,0 +1,40 @@
+.portofolio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+    height: 70vh;
+}
+
+
+
+.portofolio span:nth-of-type(1){
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.portofolio span:nth-of-type(2){
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--orange);
+    padding-top: 13px;
+}
+
+.portofolio .swiper{
+    overflow: visible!important;
+}
+
+.portofolio-slider{
+    margin-top: 3rem;
+    width: 100%;
+}
+
+.portofolio-slider .swiper-slide{
+    width: 20rem;
+}
+
+.portofolio img{
+    width:19rem;
+    filter: drop-shadow(-12px 15px 13px rgba(0,0,0,0.25));
+    border-radius: 19px;
+}

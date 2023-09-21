@@ -1,0 +1,26 @@
+.testimonials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.testimonials span {
+    margin-right: 10px; 
+}
+
+.testimonials span:nth-of-type(1){
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.testimonials span:nth-of-type(2){
+    font-size: 2rem;
+    color: var(--orange);
+    font-weight: bold;
+}
+
+.testimonials span:nth-of-type(3){
+    font-size: 2rem;
+    font-weight: bold;
+}

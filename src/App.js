@@ -6,6 +6,7 @@ import CardDiv from './Component/CardDiv/CardDiv';
 import Experience from './Component/Experience/Experience';
 import Projects from './Component/Projects/Projects';
 import Testimonials from './Component/Testimonials/Testimonials';
+import Contact from './Component/Contact/Contact';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Experience/>
       <Projects />
       <Testimonials />
+      <Contact />
       </div>
   );
 }

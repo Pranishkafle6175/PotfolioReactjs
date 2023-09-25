@@ -71,3 +71,9 @@
   font-size: 16px;
   padding: 0.5rem;
 }
+
+#thanks{
+  font-size: 2rem;
+  color: var(--orange);
+  font-weight: bold;
+}

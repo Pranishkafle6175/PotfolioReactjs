@@ -63,7 +63,7 @@ const Contact = () => {
             className=" button"
           />
 
-          <span>{done && "Thanks for contacting Me"}</span>
+          <span id="thanks">{done && "Thanks for contacting Me"}</span>
         </form>
       </div>
     </div>

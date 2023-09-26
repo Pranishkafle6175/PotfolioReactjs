@@ -1,4 +1,5 @@
 import React from 'react'
+import Toggle from '../Toggle/Toggle'
 import './Navbar.css'
 function Navbar() {
  
@@ -7,7 +8,7 @@ function Navbar() {
 
             <div className="n-left">
                 <div className="n-name">Pranish</div>
-                <span>Toggle</span>
+                <Toggle />
             </div>
             <div className="n-right">
                 <ul className='n-items' style={{listStyleType:'none'}} >

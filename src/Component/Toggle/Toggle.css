@@ -1,0 +1,15 @@
+.toggle{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid var(--orange);
+    border-radius: 1rem;
+    position: relative;
+}
+
+.toggle>*{
+    color: var(--orange);
+}
+.togglebutton{
+    border-radius: 100%;
+    background-color: var(--orange);
+}

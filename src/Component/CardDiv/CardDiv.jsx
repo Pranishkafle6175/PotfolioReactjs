@@ -7,6 +7,7 @@ import heart from "../../img/heartemoji.png";
 const CardDiv = () => {
   return (
     <div className="carddiv">
+      <div></div>
       <div className="card1">
         <Card
           style={{ top: "14%", left: "20%" }}

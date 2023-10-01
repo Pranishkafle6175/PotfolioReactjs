@@ -13,7 +13,7 @@ const CardDiv = () => {
           style={{ top: "14%", left: "20%" }}
           image={heart}
           title="Design"
-          text="Figma,Sketch,Photoshop,Adobe Illustrator,Adobe xd"
+          text="Figma,Sketch,Photoshop,Adobe Illustrator"
         />
       </div>
       <div className="card2">
@@ -29,7 +29,7 @@ const CardDiv = () => {
           style={{ top: "14%", left: "90%" }}
           image={heart}
           title="Webdeveloper"
-          text="Android Dveloper Illustrator,Adobe xd"
+          text="Android Dveloper Illustrator"
         />
       </div>
     </div>

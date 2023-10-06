@@ -18,7 +18,7 @@ const CardDiv = () => {
       </div>
       <div className="card2">
         <Card
-          style={{ top: "14%", left: "60%" }}
+          style={{ top: "15%", left: "60%" }}
           image={heart}
           title="Android"
           text=" React,JAvascript,NodeJs"

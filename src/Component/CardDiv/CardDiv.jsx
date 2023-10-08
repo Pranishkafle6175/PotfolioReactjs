@@ -13,7 +13,7 @@ const CardDiv = () => {
           style={{ top: "14%", left: "20%" }}
           image={heart}
           title="Design"
-          text="Figma,Sketch,Photoshop,Adobe Illustrator"
+          text="Figma,Java,Photoshop,Adobe Illustrator"
         />
       </div>
       <div className="card2">
